@@ -1,3 +1,4 @@
-name = "zero-card-mobileconfig"
+name = "profile.mobileconfig"
 compatibility_date = "2024-11-01"
 # No R2/D1/KV bindings are required.
+
